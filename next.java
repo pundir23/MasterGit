@@ -11,5 +11,6 @@ public class next{
         harsh.put("Rohit",45);
         System.out.println(harsh.get("Pundir"));
         System.out.println("Completed...");
+        System.out.println(harsh.containsKey("Rohit"));
     }
 }
